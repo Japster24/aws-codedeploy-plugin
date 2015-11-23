@@ -29,3 +29,7 @@ License
 -------
 
 This plugin is licensed under Apache 2.0. See the LICENSE file for more information.
+
+Build
+-------
+https://travis-ci.org/Japster24/aws-codedeploy-plugin.svg?branch=dev
